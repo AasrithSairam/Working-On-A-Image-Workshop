@@ -49,12 +49,15 @@ cv2.imwrite('final_img2.jpg', final_img2)
 ```
 
 ## Input Files:
-![final image 2](https://github.com/user-attachments/assets/74988b3c-7143-4407-8225-11de92afee5a)
+![img2](https://github.com/user-attachments/assets/557da028-5d2a-4226-83f6-425d47b2afba)
+
+
 ![img1](https://github.com/user-attachments/assets/a696146b-0b6c-4edc-ab5e-14b50a2a5f60)
 
 
 ## Output:
-![final image 2](https://github.com/user-attachments/assets/12a3f7d4-c257-4fa0-b2f8-11367841b361)
+![final image 2](https://github.com/user-attachments/assets/e9471b7c-cfa8-480f-bee7-1b18671c4dd6)
+
 
 ![final image 1](https://github.com/user-attachments/assets/e3ef6d94-327e-4692-b8f8-b0a40a652b79)
 
